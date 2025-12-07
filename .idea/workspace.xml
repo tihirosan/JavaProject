@@ -5,21 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1589370-f873-4402-b052-a6c749c95acf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practic/collections/emaillist/EmailList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practic/collections/emaillist/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practic/collections/emaillist/TASK.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practic/collections/example/CollectionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practic/inheritance/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practic/inheritance/ElectricBus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practic/interfaces/Amphibious.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practic/interfaces/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/practic/interfaces/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practic/generix/notificationapp/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practic/generix/notificationapp/TASK.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practic/generix/notificationapp/notification/EmailNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practic/generix/notificationapp/notification/Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practic/generix/notificationapp/notification/PushNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practic/generix/notificationapp/notification/SmsNotification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practic/generix/notificationapp/notification_sender/EmailNotificationSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practic/generix/notificationapp/notification_sender/NotificationSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practic/generix/notificationapp/notification_sender/PushNotificationSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practic/generix/notificationapp/notification_sender/SmsNotificationSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practic/inheritance/bank/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practic/inheritance/bank/CardAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practic/inheritance/bank/DepositAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practic/inheritance/bank/TASK.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practic/interfaces/salaryincompany/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practic/interfaces/salaryincompany/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practic/interfaces/salaryincompany/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practic/interfaces/salaryincompany/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practic/interfaces/salaryincompany/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practic/interfaces/salaryincompany/TASK.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/practic/interfaces/salaryincompany/TopManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practic/inheritance/Bus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practic/inheritance/ElectricBus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practic/interfaces/Amphibious.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practic/interfaces/example/Amphibious.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practic/interfaces/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practic/interfaces/example/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/practic/interfaces/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/practic/interfaces/example/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +56,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="36WIEJf7deLPgvkNvqdmJ2ETbId" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,6 +72,26 @@
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practic.generix.notificationapp.Main" />
+      <module name="JavaPractic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practic.generix.notificationapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,7 +103,7 @@
       <workItem from="1765115793563" duration="3391000" />
       <workItem from="1765119635047" duration="169000" />
       <workItem from="1765119818434" duration="233000" />
-      <workItem from="1765120074046" duration="1041000" />
+      <workItem from="1765120074046" duration="4409000" />
     </task>
     <servers />
   </component>

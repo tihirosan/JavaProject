@@ -1,4 +1,4 @@
-package practic.interfaces;
+package practic.interfaces.example;
 
 public class Amphibious implements Animal,Vehicle {
 
